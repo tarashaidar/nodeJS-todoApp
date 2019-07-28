@@ -1,5 +1,6 @@
 # nodeJS-todoApp
 How to install:
-
-Run npm install in root directory.
-After successfull installation,run npm start.
+<ul>
+<li>Run npm install in root directory.</li>
+<li>After successfull installation,run npm start.</li>
+</ul>
