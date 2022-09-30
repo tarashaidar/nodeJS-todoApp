@@ -15,7 +15,7 @@
     "nodemon": "^1.19.1"
   },
   "devDependencies": {
-    "@hapi/joi": "^15.1.0",
+    "@hapi/joi": "^15.1.1",
     "express-joi-validation": "^2.0.0"
   }
 }
